@@ -16,5 +16,5 @@ ruby bin/app.rb
 ![class diagram](./picture/class_diagram.png)
 
 ## Application Screenshots
-![first](./picture/first.png)
-![second](./picture/second.png)
+![first](./picture/First.png)
+![second](./picture/Second.png)
